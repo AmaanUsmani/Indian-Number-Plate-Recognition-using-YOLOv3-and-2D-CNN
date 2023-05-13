@@ -21,4 +21,5 @@ pip install -r requirements.txt
 3. Download the pre-trained weights for YOLOv3 and place them in the appropriate directory (model --> weights).
 https://drive.google.com/drive/folders/1STio9AvOODRUdLEI0lX2vh1NS0GDeUm5?usp=share_link
 
-
+4. The dataset used for this project is given below:
+https://www.kaggle.com/datasets/saisirishan/indian-vehicle-dataset
