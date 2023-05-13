@@ -13,5 +13,12 @@ This project aims to improve the accuracy of ANPR systems by implementing a pipe
 ## Installation
 
 1. Clone the repository:
+git clone https://github.com/AmaanUsmani/Indian-Number-Plate-Recognition-using-YOLOv3-and-2D-CNN.git
+
+2. Install the required dependencies:
+pip install -r requirements.txt
+
+3. Download the pre-trained weights for YOLOv3 and place them in the appropriate directory (model --> weights).
+https://drive.google.com/drive/folders/1STio9AvOODRUdLEI0lX2vh1NS0GDeUm5?usp=share_link
 
 
